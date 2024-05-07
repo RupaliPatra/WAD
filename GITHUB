@@ -1,0 +1,22 @@
+create folder on desktop
+open git bash
+
+mkdir folder_name 
+cd folder_name
+git --version
+
+open github 
+create repository
+
+open terminal
+git clone <repo link>
+cd repository_name
+
+create a file under folder name add content
+
+git status
+git add .
+git commint -m "yes"
+git status
+git push
+git status
